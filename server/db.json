@@ -1,0 +1,25 @@
+{
+  "espacios": [
+    {
+      "id": 1,
+      "estacionamiento": "San Borja",
+      "piso": "1",
+      "numero": "34-A",
+      "estado": "disponible"
+    },
+    {
+      "id": 1,
+      "estacionamiento": "San Miguel",
+      "piso": "2",
+      "numero": "35-B",
+      "estado": "libre"
+    },
+    {
+      "id": 3,
+      "estacionamiento": "asd",
+      "piso": "sad",
+      "numero": "55",
+      "estado": "libre"
+    }
+  ]
+}
