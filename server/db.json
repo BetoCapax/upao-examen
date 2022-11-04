@@ -20,6 +20,13 @@
       "piso": "sad",
       "numero": "55",
       "estado": "libre"
+    },
+    {
+      "id": 4,
+      "estacionamiento": "San Isidro",
+      "piso": "2",
+      "numero": "5-A",
+      "estado": "Ocupado"
     }
   ]
 }
